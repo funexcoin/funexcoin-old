@@ -1,0 +1,7 @@
+[main]
+host = https://www.transifex.com
+
+[funexcoin.qt-translation-020x]
+file_filter = src/qt/locale/funexcoin_<lang>.ts
+source_file = src/qt/locale/funexcoin_en.ts
+source_lang = en
