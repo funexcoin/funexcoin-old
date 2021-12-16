@@ -1,5 +1,5 @@
 # Funexcoin
-[![N|Solid](https://www.funexcoin.info/images/logo.png)](https://funexcoin.com)
+[![N|Solid](https://www.funexcoin.com/asset/img/logo.png)](https://funexcoin.com)
 =====================================
 
 https://funexcoin.com
